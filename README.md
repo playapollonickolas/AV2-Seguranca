@@ -33,7 +33,7 @@ Esta API permite que usuários organizem suas finanças pessoais com segurança,
 5. Acesse a documentação:
    http://127.0.0.1:8000/docs#/
 
-##Estrutura de Segurança Implementada
+## Estrutura de Segurança Implementada
 
 - Autenticação com JWT.
 - Autorização baseada no usuário autenticado.
